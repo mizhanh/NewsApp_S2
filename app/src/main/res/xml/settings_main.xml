@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <ListPreference
+        android:defaultValue="@string/politics"
+        android:entries="@array/categories"
+        android:entryValues="@array/categories_value"
+        android:key="@string/select_option"
+        android:title="@string/select_option" />
+
+</PreferenceScreen>

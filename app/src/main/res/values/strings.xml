@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NewsApp_S2</string>
+
+    <!-- Text to display in the list when there are no earthquakes [CHAR LIMIT=NONE] -->
+    <string name="no_news">No news found.</string>
+
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="section">Section: </string>
+
+    <string name="author">Author: </string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">Article Settings</string>
+
+    <string name="select_option">Select News Section To Read:</string>
+
+    <!--news category list-->
+    <string name="technology">Technology</string>
+    <string name="business">Business</string>
+    <string name="politics">Politics</string>
+    <string name="global">Global</string>
+    <string name="sport">Sport</string>
+    <string name="science">Science</string>
+
+
+</resources>

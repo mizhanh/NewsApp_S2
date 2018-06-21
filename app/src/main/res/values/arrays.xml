@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>@string/business</item>
+        <item>@string/global</item>
+        <item>@string/politics</item>
+        <item>@string/science</item>
+        <item>@string/sport</item>
+        <item>@string/technology</item>
+    </string-array>
+
+    <string-array name="categories_value">
+        <item>@string/business</item>
+        <item>@string/global</item>
+        <item>@string/politics</item>
+        <item>@string/science</item>
+        <item>@string/sport</item>
+        <item>@string/technology</item>
+
+    </string-array>
+
+</resources>
